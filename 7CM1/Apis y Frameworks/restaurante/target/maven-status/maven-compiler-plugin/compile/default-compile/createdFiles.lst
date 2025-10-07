@@ -1,0 +1,17 @@
+com/upiiz/restaurante/services/ClienteService.class
+com/upiiz/restaurante/RestauranteApplication.class
+com/upiiz/restaurante/repositories/DetallePedidoRepository.class
+com/upiiz/restaurante/controllers/PlatilloController.class
+com/upiiz/restaurante/controllers/PedidoPlatilloController.class
+com/upiiz/restaurante/services/DetallePedidoService.class
+com/upiiz/restaurante/controllers/ClienteController.class
+com/upiiz/restaurante/controllers/PedidoController.class
+com/upiiz/restaurante/entities/Cliente.class
+com/upiiz/restaurante/repositories/PedidoRepository.class
+com/upiiz/restaurante/entities/Platillo.class
+com/upiiz/restaurante/entities/DetallePedido.class
+com/upiiz/restaurante/repositories/ClienteRepository.class
+com/upiiz/restaurante/entities/Pedido.class
+com/upiiz/restaurante/services/PedidoService.class
+com/upiiz/restaurante/services/PlatilloService.class
+com/upiiz/restaurante/repositories/PlatilloRepository.class
