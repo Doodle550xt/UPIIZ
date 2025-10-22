@@ -190,7 +190,12 @@ public class ProveedorController {
     // Eliminar un proveedor
     @Operation(summary = "Eliminar un proveedor", description = "Elimina un proveedor existente por su ID.")
     @ApiResponses(value = {
-            @ApiResponse(responseCode = "204", description = "Proveedor eliminado correctamente"),
+            @ApiResponse(responseCode = "204", description = "Proveedor eliminado correctamente", content = @Content(mediaType = "application/json", examples = @ExampleObject(value = """
+                        {
+                            "estado": "Proveedor eliminado correctamente",
+                            "mensaje": "Se eliminó el proveedor con el ID especificado"
+                        }
+                    """))),
             @ApiResponse(responseCode = "404", description = "Proveedor no encontrado", content = @Content(mediaType = "application/json", examples = @ExampleObject(value = """
                         {
                             "estado": "No encontrado",
@@ -211,7 +216,7 @@ public class ProveedorController {
             if (proveedor != null) {
                 proveedorService.deleteProveedor(id);
                 return ResponseEntity.status(HttpStatus.NO_CONTENT).body(Map.of(
-                        "estado", "Recurso eliminado",
+                        "estado", "Proveedor eliminado correctamente",
                         "mensaje", "Se eliminó el proveedor con el ID especificado"));
             } else {
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body(Map.of(
