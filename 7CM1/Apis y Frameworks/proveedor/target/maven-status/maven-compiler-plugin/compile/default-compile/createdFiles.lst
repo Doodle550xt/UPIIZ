@@ -1,0 +1,6 @@
+com/upiiz/proveedor/config/SwaggerConfig.class
+com/upiiz/proveedor/repositories/ProveedorRepository.class
+com/upiiz/proveedor/services/ProveedorService.class
+com/upiiz/proveedor/entities/Proveedor.class
+com/upiiz/proveedor/ProveedorApplication.class
+com/upiiz/proveedor/controllers/ProveedorController.class
