@@ -1,6 +1,6 @@
-/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/FRAMEWORKS/Unidad I/Ejercicio 7/proveedor/src/main/java/com/upiiz/proveedor/ProveedorApplication.java
-/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/FRAMEWORKS/Unidad I/Ejercicio 7/proveedor/src/main/java/com/upiiz/proveedor/config/SwaggerConfig.java
-/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/FRAMEWORKS/Unidad I/Ejercicio 7/proveedor/src/main/java/com/upiiz/proveedor/controllers/ProveedorController.java
-/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/FRAMEWORKS/Unidad I/Ejercicio 7/proveedor/src/main/java/com/upiiz/proveedor/entities/Proveedor.java
-/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/FRAMEWORKS/Unidad I/Ejercicio 7/proveedor/src/main/java/com/upiiz/proveedor/repositories/ProveedorRepository.java
-/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/FRAMEWORKS/Unidad I/Ejercicio 7/proveedor/src/main/java/com/upiiz/proveedor/services/ProveedorService.java
+/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/GITHUB/UPIIZ/7CM1/Apis y Frameworks/proveedor/src/main/java/com/upiiz/proveedor/ProveedorApplication.java
+/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/GITHUB/UPIIZ/7CM1/Apis y Frameworks/proveedor/src/main/java/com/upiiz/proveedor/config/SwaggerConfig.java
+/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/GITHUB/UPIIZ/7CM1/Apis y Frameworks/proveedor/src/main/java/com/upiiz/proveedor/controllers/ProveedorController.java
+/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/GITHUB/UPIIZ/7CM1/Apis y Frameworks/proveedor/src/main/java/com/upiiz/proveedor/entities/Proveedor.java
+/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/GITHUB/UPIIZ/7CM1/Apis y Frameworks/proveedor/src/main/java/com/upiiz/proveedor/repositories/ProveedorRepository.java
+/Users/crisgn/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Documentos/IPN/UPIIZ/7CM1/GITHUB/UPIIZ/7CM1/Apis y Frameworks/proveedor/src/main/java/com/upiiz/proveedor/services/ProveedorService.java

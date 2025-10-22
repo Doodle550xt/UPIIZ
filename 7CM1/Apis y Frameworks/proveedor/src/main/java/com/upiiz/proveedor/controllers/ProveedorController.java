@@ -210,7 +210,9 @@ public class ProveedorController {
             Proveedor proveedor = proveedorService.getProveedorById(id);
             if (proveedor != null) {
                 proveedorService.deleteProveedor(id);
-                return ResponseEntity.noContent().build();
+                return ResponseEntity.status(HttpStatus.NO_CONTENT).body(Map.of(
+                        "estado", "Recurso eliminado",
+                        "mensaje", "Se eliminó el proveedor con el ID especificado"));
             } else {
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body(Map.of(
                         "estado", "No encontrado",

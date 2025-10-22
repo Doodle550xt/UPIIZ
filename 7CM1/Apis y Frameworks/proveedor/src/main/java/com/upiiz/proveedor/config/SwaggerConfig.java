@@ -11,7 +11,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
         title="Documentación de la API de Proveedores",
         description="Nos permite gestionar la información del sistema de proveedores",
         // Versión - Funcionalodades menores - Parches
-        version="1.0.0",
+        version="1.0.1",
         contact = @Contact(
             name="Cristian García Nieves",
             url="ninguna.com",
@@ -25,7 +25,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
     ),
     servers = {
         @Server(url="http://localhost:8080/",description="Servidor de pruebas"),
-        @Server(url="https://api.render.com",description = "Servidor de producción")
+        @Server(url="https://upiiz-s9yv.onrender.com",description = "Servidor de producción")
     }
 )
 public class SwaggerConfig {
